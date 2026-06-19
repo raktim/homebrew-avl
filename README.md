@@ -152,10 +152,7 @@ show that the analysis runs end-to-end without a graphics device.
 
 ## Citation
 
-AVL is by Mark Drela and Harold Youngren. Cite the program and the
-user primer at web.mit.edu/drela/Public/web/avl for any work that
-relies on its results. This tap is a build script; the science is
-theirs.
+AVL is by Mark Drela and Harold Youngren. Cite the program and the user primer at web.mit.edu/drela/Public/web/avl for any work that relies on its results. This tap is just a build script of their original software.
 
 ## License
 
